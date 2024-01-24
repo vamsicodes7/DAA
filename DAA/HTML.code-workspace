@@ -1,0 +1,33 @@
+{
+	"folders": [
+		{
+			"name": "HTML",
+			"path": "../HTML"
+		},
+		{
+			"name": "CSS",
+			"path": "../CSS"
+		},
+		{
+			"name": "JavaScript",
+			"path": "../JavaScript"
+		},
+		{
+			"name": "JS Crash Course",
+			"path": "../JS Crash Course"
+		},
+		{
+			"name": "Python",
+			"path": "../Python"
+		},
+		{
+			"name": "COA",
+			"path": "../COA"
+		},
+		{
+			"name": "DAA",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
